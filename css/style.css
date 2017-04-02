@@ -1,0 +1,24 @@
+div#roller {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.die {
+    background: #42A5F5;
+    padding: 12px;
+    margin: 10px 16px;
+    width: 30px;
+    height: auto;
+    color: #fff;
+    font-size: 22px;
+}
+
+button {
+    background: #0097A7;
+    border: 1px solid #fff;
+    width: 100px;
+    height: 40px;
+    color: #fff;
+    font-size: 12px;
+    box-shadow: 7px 4px 10px #888888;
+}
